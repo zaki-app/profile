@@ -36,10 +36,7 @@
   最近開発を進めています。  
   PlanetScaleの無料枠がなくなっちゃうのでsupabaseへの切り替え中です
 
-- https://github.com/zaki-app/yozakura-blog
-  - 昔作っていた個人ブログですが、上記に切り替えたのでこちらの開発は今後もしない予定です。
-
-両方ともコンテンツ管理のリポジトリはprivateです。
+コンテンツ管理のリポジトリはprivateです。
 
 <br>
 
